@@ -1,4 +1,4 @@
-# Surf-up Analysis.
+# Surfs-up Analysis.
 
 # Overview of Project
 The purpose of this analysis was to determine if the surf and ice cream shop business is sustainable year-round in Oahu. We performed an exploratory climate analysis and generated summary statistics of temperature and precipitation from the previous year. 
